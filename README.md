@@ -1,3 +1,3 @@
-手順書
+最新
 
-https://note.com/ghx86l/n/nb314a20a90e2
+[Pmx CCDIK CustomNode for UE5](https://github.com/Ghx86/Vmd-Loader/edit/main/README.md)](https://github.com/Ghx86/VP_Loader)
